@@ -1,0 +1,23 @@
+{
+  "name": "react-usemobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Summer-16/react-usemobile.git"
+  },
+  "author": "Shivam-Parashar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Summer-16/react-usemobile/issues"
+  },
+  "homepage": "https://github.com/Summer-16/react-usemobile#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
