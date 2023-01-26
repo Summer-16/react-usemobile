@@ -1,10 +1,8 @@
 # react-usemobile
 
-This is a simple hook which help you detect the device view and orientation.
-
-## react-usemobile
-
 This is a simple hook will help you detect the device view and orientation.
+
+[Find NPM Package here](https://www.npmjs.com/package/react-usemobile)
 
 ## Installation
 
