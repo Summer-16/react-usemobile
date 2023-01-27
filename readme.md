@@ -22,7 +22,6 @@ Example:
 import useMobile from "react-usemobile";
 ```
 
-If you want to leave a message to a specific browser (e.g IE), you can use `isIE` selector
 
 ```javascript
 import useMobile from "react-usemobile";
